@@ -6,10 +6,13 @@ Traffic congestion is the culprit behind improper traffic management, lawlessnes
 
 ## Hardware Requirements :
 Arduino UNO,Camera module
-## SOftware REquirements :
+## SOftware REquirements :t 
 Arduino IDe , Python SDK , CPP Compiler ,APK's,Sensors
 
-## Insatllation Process : 
+## Virtual Environment :
+You can also design the prototypes and your ideas of various path controls and traffic congestion using the simulator named ANYLOGIc through which we can generate the simulation of virtual traffic and also connect with different sensors to  work on new implementations.
+
+## Installation Process : 
 
 First WE have to install all the requirements of the camera module.
 We have to make the Central hub for ccommuniacation of all tha camera and then communicate with the vehicles.
