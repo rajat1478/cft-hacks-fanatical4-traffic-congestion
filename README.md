@@ -6,7 +6,7 @@ Traffic congestion is the culprit behind improper traffic management, lawlessnes
 
 ## Hardware Requirements :
 Arduino UNO,Camera module
-## SOftware REquirements :t 
+## SOftware REquirements :
 Arduino IDe , Python SDK , CPP Compiler ,APK's,Sensors
 
 ## Virtual Environment :
