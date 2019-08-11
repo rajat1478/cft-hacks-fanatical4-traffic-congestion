@@ -6,7 +6,7 @@ Traffic congestion is the culprit behind improper traffic management, lawlessnes
 
 ## Hardware Requirements :
 Arduino UNO,Camera module
-## SOftware REquirements :
+## Software REquirements :
 Arduino IDe , Python SDK , CPP Compiler ,APK's,Sensors
 
 ## Virtual Environment :
@@ -27,3 +27,6 @@ Mathematically, congestion is usually looked at as the number of vehicles that p
 A highly skilled and smart camera will be designed by the team which is going to be fixed on the traffic signals so that it measures the length of the traffic in a particular direction and provides the relative waiting time to the vehicles in next direction.
 The camera is designed with high quality lens with variable focal length.
 The camera will also consists of the essential part that will compute the relative waiting time based on calculations done on the length of the traffic.
+
+## Open Innovation:
+The idea we have implemented in our project never used before in this field.
